@@ -12,4 +12,7 @@ func main() {
 
 	fmt.Println("Hello from Go!")
 	fmt.Println(str1, str2, str3)
+
+	str4 := "I am fine"
+	fmt.Println(str4)
 }
