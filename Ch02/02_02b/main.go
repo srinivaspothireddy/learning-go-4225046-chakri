@@ -15,4 +15,7 @@ func main() {
 
 	str4 := "I am fine"
 	fmt.Println(str4)
+
+	str5 := "I am fine5"
+	fmt.Println(str5)
 }
